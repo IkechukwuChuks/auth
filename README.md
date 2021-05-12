@@ -8,16 +8,16 @@ This is a simple laravel project implementing user authentications and authoriza
 
 ## Features
 
-Authentication: Login
-                Register 
-                Forgot Password
+Authentication: Login,
+                Register, 
+                Forgot Password,
                 Verifiy Email
 
-Admin:  Users
-        Profile
+Admin:  Users,
+        Profile,
         Home
 
-Users:  Home
+Users:  Home,
         Profile
 
 ---
