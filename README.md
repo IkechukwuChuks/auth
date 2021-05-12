@@ -18,6 +18,8 @@ User homepage and Profile
 
 copy and rename your .env.example to .env and change the database and mail credentials
 
+---
+
 ## Run and Install Components
 
 $ composer install
