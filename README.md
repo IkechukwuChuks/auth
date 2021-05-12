@@ -8,4 +8,11 @@ This is a simple laravel project implementing user authentications and authoriza
 
 ## Install Components
 
-$ run install composer
+copy and rename your .env.example to .env and change the database and mail credentials
+
+## Run
+
+$ composer install
+
+$ php artisan db:seed
+
