@@ -32,6 +32,8 @@ copy and rename your .env.example to .env and change the database and mail crede
 
 $ composer install
 
+$ php artisan migrate
+
 $ php artisan db:seed
 
 $ php artisan serve
