@@ -8,9 +8,17 @@ This is a simple laravel project implementing user authentications and authoriza
 
 ## Features
 
-Authentication Login and Register Pages
-Admin homepage and side of Managing Users from database and Profile
-User homepage and Profile
+Authentication: Login
+                Register 
+                Forgot Password
+                Verifiy Email
+
+Admin:  Users
+        Profile
+        Home
+
+Users:  Home
+        Profile
 
 ---
 
