@@ -20,7 +20,7 @@ copy and rename your .env.example to .env and change the database and mail crede
 
 ---
 
-## Run and Install Components
+## Install and Run Components
 
 $ composer install
 
