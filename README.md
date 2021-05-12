@@ -16,3 +16,5 @@ $ composer install
 
 $ php artisan db:seed
 
+$ php artisan serve
+
